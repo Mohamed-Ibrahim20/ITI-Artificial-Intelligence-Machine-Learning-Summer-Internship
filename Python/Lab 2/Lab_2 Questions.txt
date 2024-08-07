@@ -1,0 +1,31 @@
+1-Write a program that reads an integer salary then:
+
+	If salary < 1000,
+	-	Print you are poor
+	elif salary greater than or equal to 1000 and less than 20000
+	-	Print good salary
+	elif salary greater than or equal to 20000
+	-	Print you are rich
+
+2-Write a Python program that receives the age of the user and display whether he/she can drive a car. If the user is above 18 years old, he/she can drive.
+
+3-Write a Python program that finds the minimum of three values a , b and c.
+
+4-Write a Python program that divides two numbers together and display the result. However, if the second number is a zero then the calculation can't be done as dividing a number by zero gives a result of ‘infinity’.
+
+5-We need to print 0,3,6,9,12 using for loop
+
+6-We need to print 0 ,3 ,6 ,9 ,12 and index of positions using for loop -> hint: enumerate function 
+
+7- Given a list of numbers. write a program to turn every item of a list into its square
+	lst = [1, 2, 3, 4, 5, 6, 7]
+	result = [1, 4, 9, 16, 25, 36, 49] 
+
+8-  write a program to Concatenate two lists
+
+9- write a program to Reverse the tuple
+
+bounce
+10- Convert two lists into a dictionary
+ 	keys = ['Ten', 'Twenty', 'Thirty']
+ 	values = [10, 20, 30]

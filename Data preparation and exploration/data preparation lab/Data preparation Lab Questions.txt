@@ -1,0 +1,14 @@
+1: create any list from you 2D List-to-Dataframe Conversion Given a 2D List, convert it into corresponding dataframe and display it.
+
+2: create any dic from you then Dictionary-to-Dataframe ConversionGiven a dictionary, convert it into corresponding dataframe and display it
+
+3:Selecting all the rows from the given dataframe in which ‘Percentage’ is greater than 80 using basic method.
+
+record = {
+  
+ 'Name': ['Ankit', 'Amit', 'Aishwarya', 'Priyanka', 'Priya', 'Shaurya' ],
+ 'Age': [21, 19, 20, 18, 17, 21],
+ 'Stream': ['Math', 'Commerce', 'Science', 'Math', 'Math', 'Science'],
+ 'Percentage': [88, 92, 95, 70, 65, 78] }
+
+columns = ['Name', 'Age', 'Stream', 'Percentage']

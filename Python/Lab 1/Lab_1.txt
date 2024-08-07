@@ -1,0 +1,9 @@
+1- write 5 different variables and check for it's data types using type() function
+
+2- write 3 variable and take it in one line using split() function and print it
+
+3- write 3 integer variables and take it in one line and print it.
+
+4- write program take number from user then convert it to string " casting " then print length of this string using len() function
+
+5- take integer multiple number in one line using map and split then print maximum and minimum number from it using min and max function

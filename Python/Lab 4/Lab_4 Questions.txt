@@ -1,0 +1,4 @@
+Create class person have public, private and protected data members and methods
+then create class student inheretance from person parent class
+and create public and protected method in student class
+then print all details you write it
